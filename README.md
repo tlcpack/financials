@@ -1,4 +1,7 @@
 # financials
+Building a cool financial dashboard in Vue. From https://codingandfun.com/vue-js-building-a-financial-application/
+
+Check it out here: https://hopeful-edison-afc588.netlify.app/#/
 
 ## Project setup
 ```
